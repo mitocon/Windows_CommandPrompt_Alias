@@ -1,0 +1,2 @@
+# Windows_CommandPrompt_Alias
+Windows10でのコマンドのエイリアス設定例
