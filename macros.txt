@@ -1,0 +1,5 @@
+pj=code D:¥pj/directory
+viewpj=start chrome https://www.yahoo.co.jp
+secretviewpj=start chrome /incognito https://secret_mode
+openmultitab=start chrome https://www.youtube.com/ https://mail.google.com/chat/u/0/#chat/welcome https://mail.google.com/mail/u/0/#inbox
+closeafterdo=code D:¥pj/directory & exit
